@@ -1,2 +1,2 @@
 # LinearRegression-HyundaiCarPricePrediction
-Memprediksi harga mobil hyundai menggunakan linear regression.
+Predicting the price of hyundai cars using linear regression.
